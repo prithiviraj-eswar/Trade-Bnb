@@ -1,0 +1,108 @@
+{
+  "portfolio": {
+    "AMZN": {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc",
+      "exchange": "NASDAQ",
+      "currency": "USD",
+      "datetime": "2022-03-31",
+      "price": "3259.95000",
+      "open": "3328.89990",
+      "high": "3329.89990",
+      "low": "3259.07007",
+      "close": "3259.94995",
+      "volume": "2754470",
+      "previous_close": "3326.02002",
+      "change": "-66.07007",
+      "percent_change": "-1.98646",
+      "average_volume": "3161787",
+      "fifty_two_week": {
+        "low": "2671.44995",
+        "high": "3773.08008",
+        "low_change": "588.50000",
+        "high_change": "-513.13013",
+        "low_change_percent": "22.02924",
+        "high_change_percent": "-13.59977",
+        "range": "2671.449951 - 3773.080078"
+      }
+    },
+    "TSLA": {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc",
+      "exchange": "NASDAQ",
+      "currency": "USD",
+      "datetime": "2022-03-31",
+      "price": "3259.95000",
+      "open": "3328.89990",
+      "high": "3329.89990",
+      "low": "3259.07007",
+      "close": "3259.94995",
+      "volume": "2754470",
+      "previous_close": "3326.02002",
+      "change": "-66.07007",
+      "percent_change": "-1.98646",
+      "average_volume": "3161787",
+      "fifty_two_week": {
+        "low": "2671.44995",
+        "high": "3773.08008",
+        "low_change": "588.50000",
+        "high_change": "-513.13013",
+        "low_change_percent": "22.02924",
+        "high_change_percent": "-13.59977",
+        "range": "2671.449951 - 3773.080078"
+      }
+    },
+    "CEI": {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc",
+      "exchange": "NASDAQ",
+      "currency": "USD",
+      "datetime": "2022-03-31",
+      "price": "3259.95000",
+      "open": "3328.89990",
+      "high": "3329.89990",
+      "low": "3259.07007",
+      "close": "3259.94995",
+      "volume": "2754470",
+      "previous_close": "3326.02002",
+      "change": "-66.07007",
+      "percent_change": "-1.98646",
+      "average_volume": "3161787",
+      "fifty_two_week": {
+        "low": "2671.44995",
+        "high": "3773.08008",
+        "low_change": "588.50000",
+        "high_change": "-513.13013",
+        "low_change_percent": "22.02924",
+        "high_change_percent": "-13.59977",
+        "range": "2671.449951 - 3773.080078"
+      }
+    },
+    "SE": {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc",
+      "exchange": "NASDAQ",
+      "currency": "USD",
+      "datetime": "2022-03-31",
+      "price": "3259.95000",
+      "open": "3328.89990",
+      "high": "3329.89990",
+      "low": "3259.07007",
+      "close": "3259.94995",
+      "volume": "2754470",
+      "previous_close": "3326.02002",
+      "change": "-66.07007",
+      "percent_change": "-1.98646",
+      "average_volume": "3161787",
+      "fifty_two_week": {
+        "low": "2671.44995",
+        "high": "3773.08008",
+        "low_change": "588.50000",
+        "high_change": "-513.13013",
+        "low_change_percent": "22.02924",
+        "high_change_percent": "-13.59977",
+        "range": "2671.449951 - 3773.080078"
+      }
+    }
+  }
+}

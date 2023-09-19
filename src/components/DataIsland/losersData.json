@@ -1,0 +1,212 @@
+[
+  {
+    "symbol": "GNS",
+    "name": "Genius Group Limited",
+    "change": -11.48,
+    "price": 7.95,
+    "changesPercentage": -59.083893
+  },
+  {
+    "symbol": "STSS",
+    "name": "Sharps Technology, Inc.",
+    "change": -2.12,
+    "price": 2.11,
+    "changesPercentage": -50.11821
+  },
+  {
+    "symbol": "SGLY",
+    "name": "Singularity Future Technology Ltd.",
+    "change": -1.95,
+    "price": 6.46,
+    "changesPercentage": -23.18668
+  },
+  {
+    "symbol": "PTGX",
+    "name": "Protagonist Therapeutics, Inc.",
+    "change": -5.57,
+    "price": 19.95,
+    "changesPercentage": -21.826017
+  },
+  {
+    "symbol": "LIXT",
+    "name": "Lixte Biotechnology Holdings, Inc.",
+    "change": -0.39,
+    "price": 1.57,
+    "changesPercentage": -19.897959
+  },
+  {
+    "symbol": "PYXS",
+    "name": "Pyxis Oncology, Inc.",
+    "change": -0.88,
+    "price": 3.65,
+    "changesPercentage": -19.42605
+  },
+  {
+    "symbol": "FRGE",
+    "name": "Forge Global Holdings, Inc.",
+    "change": -3.24,
+    "price": 13.56,
+    "changesPercentage": -19.2857
+  },
+  {
+    "symbol": "EVOL",
+    "name": "Evolving Systems, Inc.",
+    "change": -0.33,
+    "price": 1.45,
+    "changesPercentage": -18.539322
+  },
+  {
+    "symbol": "RVSN",
+    "name": "Rail Vision Ltd.",
+    "change": -0.36,
+    "price": 1.65,
+    "changesPercentage": -17.91045
+  },
+  {
+    "symbol": "SISI",
+    "name": "Shineco, Inc.",
+    "change": -0.39,
+    "price": 1.81,
+    "changesPercentage": -17.727276
+  },
+  {
+    "symbol": "RERE",
+    "name": "ATRenew Inc.",
+    "change": -0.55,
+    "price": 2.62,
+    "changesPercentage": -17.350164
+  },
+  {
+    "symbol": "AYLA",
+    "name": "Ayala Pharmaceuticals, Inc.",
+    "change": -0.63,
+    "price": 3.07,
+    "changesPercentage": -17.027029
+  },
+  {
+    "symbol": "ZY",
+    "name": "Zymergen Inc.",
+    "change": -0.35,
+    "price": 1.76,
+    "changesPercentage": -16.587675
+  },
+  {
+    "symbol": "CMBM",
+    "name": "Cambium Networks Corporation",
+    "change": -3.37,
+    "price": 16.95,
+    "changesPercentage": -16.58464
+  },
+  {
+    "symbol": "PHAS",
+    "name": "PhaseBio Pharmaceuticals, Inc.",
+    "change": -0.25,
+    "price": 1.27,
+    "changesPercentage": -16.447369
+  },
+  {
+    "symbol": "BNR",
+    "name": "Burning Rock Biotech Limited",
+    "change": -1.38,
+    "price": 7.23,
+    "changesPercentage": -16.02787
+  },
+  {
+    "symbol": "AREB",
+    "name": "American Rebel Holdings, Inc.",
+    "change": -0.28,
+    "price": 1.47,
+    "changesPercentage": -15.999998
+  },
+  {
+    "symbol": "ISO",
+    "name": "IsoPlexis Corporation",
+    "change": -0.42,
+    "price": 2.3,
+    "changesPercentage": -15.441179
+  },
+  {
+    "symbol": "SBFM",
+    "name": "Sunshine Biopharma, Inc.",
+    "change": -0.73,
+    "price": 4.03,
+    "changesPercentage": -15.336134
+  },
+  {
+    "symbol": "BFRI",
+    "name": "Biofrontera Inc.",
+    "change": -0.76,
+    "price": 4.2,
+    "changesPercentage": -15.322585
+  },
+  {
+    "symbol": "CISO",
+    "name": "Cerberus Cyber Sentinel Corporation",
+    "change": -0.78,
+    "price": 4.51,
+    "changesPercentage": -14.744796
+  },
+  {
+    "symbol": "SST",
+    "name": "System1, Inc.",
+    "change": -3.57,
+    "price": 20.88,
+    "changesPercentage": -14.6012335
+  },
+  {
+    "symbol": "NRGV",
+    "name": "Energy Vault Holdings, Inc.",
+    "change": -2.13,
+    "price": 12.87,
+    "changesPercentage": -14.200001
+  },
+  {
+    "symbol": "BCDA",
+    "name": "BioCardia, Inc.",
+    "change": -0.24,
+    "price": 1.49,
+    "changesPercentage": -13.872832
+  },
+  {
+    "symbol": "PHIO",
+    "name": "Phio Pharmaceuticals Corp.",
+    "change": -0.18,
+    "price": 1.19,
+    "changesPercentage": -13.138681
+  },
+  {
+    "symbol": "ALOT",
+    "name": "AstroNova, Inc.",
+    "change": -1.9,
+    "price": 12.85,
+    "changesPercentage": -12.881353
+  },
+  {
+    "symbol": "ANNX",
+    "name": "Annexon, Inc.",
+    "change": -0.31,
+    "price": 2.17,
+    "changesPercentage": -12.499998
+  },
+  {
+    "symbol": "SOFO",
+    "name": "Sonic Foundry, Inc.",
+    "change": -0.36,
+    "price": 2.58,
+    "changesPercentage": -12.244903
+  },
+  {
+    "symbol": "FREQ",
+    "name": "Frequency Therapeutics, Inc.",
+    "change": -0.2,
+    "price": 1.46,
+    "changesPercentage": -12.048188
+  },
+  {
+    "symbol": "STOK",
+    "name": "Stoke Therapeutics, Inc.",
+    "change": -2.78,
+    "price": 20.34,
+    "changesPercentage": -12.024223
+  }
+]

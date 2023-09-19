@@ -1,0 +1,31 @@
+.funds_wrapper {
+  height: 720px;
+  z-index: -1;
+}
+
+.funds_wrapper {
+  background-color: #f0f0f0;
+}
+
+.sub_header {
+  margin: 5px 0px 5px 0px;
+  height: 40px;
+  display: flex;
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  box-sizing: inherit;
+  position: relative;
+  text-transform: capitalize;
+  font-family: Arial;
+  color: rgb(1, 1, 1);
+  background-color: #f0f0f0;
+}

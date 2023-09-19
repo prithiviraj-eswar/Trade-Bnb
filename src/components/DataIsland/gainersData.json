@@ -1,0 +1,212 @@
+[
+  {
+    "symbol": "MDVL",
+    "name": "MedAvail Holdings, Inc",
+    "change": 1,
+    "price": 2.44,
+    "changesPercentage": 69.44444
+  },
+  {
+    "symbol": "INDO",
+    "name": "Indonesia Energy Corporation Limited",
+    "change": 10.49,
+    "price": 26.4,
+    "changesPercentage": 65.93338
+  },
+  {
+    "symbol": "CMLS",
+    "name": "Cumulus Media Inc.",
+    "change": 4.05,
+    "price": 14.21,
+    "changesPercentage": 39.862206
+  },
+  {
+    "symbol": "HUSA",
+    "name": "Houston American Energy Corp.",
+    "change": 1.35,
+    "price": 4.86,
+    "changesPercentage": 38.46154
+  },
+  {
+    "symbol": "APCX",
+    "name": "AppTech Payments Corp.",
+    "change": 0.6,
+    "price": 2.25,
+    "changesPercentage": 36.363636
+  },
+  {
+    "symbol": "MARPS",
+    "name": "Marine Petroleum Trust",
+    "change": 2.07,
+    "price": 9.61,
+    "changesPercentage": 27.453577
+  },
+  {
+    "symbol": "WORX",
+    "name": "SCWorx Corp.",
+    "change": 0.23,
+    "price": 1.12,
+    "changesPercentage": 25.8427
+  },
+  {
+    "symbol": "CRXT",
+    "name": "Clarus Therapeutics Holdings, Inc.",
+    "change": 0.25,
+    "price": 1.24,
+    "changesPercentage": 25.252523
+  },
+  {
+    "symbol": "PPGH",
+    "name": "Poema Global Holdings Corp.",
+    "change": 2.44,
+    "price": 12.74,
+    "changesPercentage": 23.689316
+  },
+  {
+    "symbol": "MXC",
+    "name": "Mexco Energy Corporation",
+    "change": 3.34,
+    "price": 19.34,
+    "changesPercentage": 20.875
+  },
+  {
+    "symbol": "PPGHU",
+    "name": "Poema Global Holdings Corp.",
+    "change": 2.227,
+    "price": 13.055,
+    "changesPercentage": 20.5671
+  },
+  {
+    "symbol": "LYRA",
+    "name": "Lyra Therapeutics, Inc.",
+    "change": 1.27,
+    "price": 7.51,
+    "changesPercentage": 20.352571
+  },
+  {
+    "symbol": "NEXT",
+    "name": "NextDecade Corporation",
+    "change": 1.2,
+    "price": 7.37,
+    "changesPercentage": 19.448944
+  },
+  {
+    "symbol": "AIRG",
+    "name": "Airgain, Inc.",
+    "change": 1.32,
+    "price": 8.32,
+    "changesPercentage": 18.857138
+  },
+  {
+    "symbol": "TRVI",
+    "name": "Trevi Therapeutics, Inc.",
+    "change": 0.5,
+    "price": 3.28,
+    "changesPercentage": 17.985613
+  },
+  {
+    "symbol": "CRDL",
+    "name": "Cardiol Therapeutics Inc.",
+    "change": 0.31,
+    "price": 2.05,
+    "changesPercentage": 17.81609
+  },
+  {
+    "symbol": "LEXX",
+    "name": "Lexaria Bioscience Corp.",
+    "change": 0.56,
+    "price": 3.83,
+    "changesPercentage": 17.12538
+  },
+  {
+    "symbol": "RENN",
+    "name": "Renren Inc.",
+    "change": 3.84,
+    "price": 26.78,
+    "changesPercentage": 16.73932
+  },
+  {
+    "symbol": "VSTM",
+    "name": "Verastem, Inc.",
+    "change": 0.24,
+    "price": 1.77,
+    "changesPercentage": 15.6862755
+  },
+  {
+    "symbol": "INZY",
+    "name": "Inozyme Pharma, Inc.",
+    "change": 0.57,
+    "price": 4.26,
+    "changesPercentage": 15.447159
+  },
+  {
+    "symbol": "CXW",
+    "name": "CoreCivic, Inc.",
+    "change": 1.75,
+    "price": 13.45,
+    "changesPercentage": 14.957266
+  },
+  {
+    "symbol": "REDU",
+    "name": "RISE Education Cayman Ltd",
+    "change": 0.16,
+    "price": 1.26,
+    "changesPercentage": 14.545451
+  },
+  {
+    "symbol": "LGHL",
+    "name": "Lion Group Holding Ltd.",
+    "change": 0.2,
+    "price": 1.6,
+    "changesPercentage": 14.285718
+  },
+  {
+    "symbol": "IMPP",
+    "name": "Imperial Petroleum Inc.",
+    "change": 0.18,
+    "price": 1.46,
+    "changesPercentage": 14.062506
+  },
+  {
+    "symbol": "USEG",
+    "name": "U.S. Energy Corp.",
+    "change": 0.56,
+    "price": 4.79,
+    "changesPercentage": 13.23877
+  },
+  {
+    "symbol": "BON",
+    "name": "Bon Natural Life Limited",
+    "change": 0.395,
+    "price": 3.475,
+    "changesPercentage": 12.824676
+  },
+  {
+    "symbol": "SYTA",
+    "name": "Siyata Mobile Inc.",
+    "change": 0.14,
+    "price": 1.24,
+    "changesPercentage": 12.727271
+  },
+  {
+    "symbol": "SBEV",
+    "name": "Splash Beverage Group, Inc.",
+    "change": 0.29,
+    "price": 2.6,
+    "changesPercentage": 12.554111
+  },
+  {
+    "symbol": "VALN",
+    "name": "Valneva SE",
+    "change": 4.14,
+    "price": 37.57,
+    "changesPercentage": 12.384084
+  },
+  {
+    "symbol": "NM",
+    "name": "Navios Maritime Holdings Inc.",
+    "change": 0.39,
+    "price": 3.58,
+    "changesPercentage": 12.225701
+  }
+]

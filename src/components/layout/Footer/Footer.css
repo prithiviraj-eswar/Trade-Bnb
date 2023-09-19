@@ -1,0 +1,166 @@
+#footer {
+  background-color: black;
+  color: bisque;
+  position: relative;
+  height: 300px;
+  margin-top: -100px;
+  clear: both;
+}
+
+.foot-menu {
+  display: grid;
+  grid-template-columns: repeat(5, auto);
+  grid-gap: 100px;
+  list-style: none;
+  text-align: left;
+  width: 81vw;
+  justify-content: end;
+  margin-right: 2rem;
+}
+
+.footer_content {
+  width: 100%;
+  position: relative;
+}
+
+.foot-links {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+}
+
+/* .foot-links:hover {
+  color: rgb(183, 184, 250);
+  font-size: 1.2rem;
+  border-radius: 2px;
+  transform: all 0.4 ease-out;
+} */
+
+.footItems {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  float: left;
+  width: 10vw;
+}
+
+.factor {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: 5px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.factor > a {
+  color: bisque;
+  text-decoration: none;
+  padding: 0.2rem 1rem;
+  font-size: 0.7rem;
+}
+
+.factor > a:hover {
+  color: rgb(0, 169, 254);
+  font-size: 0.75rem;
+  padding: 0.2rem 1rem;
+  transform: all 1.4 ease-out;
+}
+
+.subfooter_content {
+  width: 100%;
+  position: relative;
+  color: bisque;
+  clear: both;
+}
+
+.sticky_warning_text {
+  background-color: rgb(253, 202, 93);
+  color: rgb(128, 1, 1);
+}
+
+.fa-triangle-exclamation {
+  padding: 0.5rem 0.5rem;
+}
+
+@media screen and (max-width: 960px) {
+  .footer {
+    position: relative;
+  }
+
+  .foot-menu {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    top: 80px;
+    left: -100%;
+    opacity: 1;
+    transition: all 0.5s ease;
+    margin-top: 10px;
+  }
+
+  .foot-menu.active {
+    background: #6668f4;
+    left: 0;
+    opacity: 1;
+    transition: all 0.5s ease;
+    z-index: 1;
+  }
+
+  .foot-links {
+    text-align: center;
+    padding: 2rem;
+    width: 100%;
+    display: table;
+  }
+
+  .foot-links:hover {
+    background-color: #7577fa;
+    border-radius: 0;
+  }
+
+  .footbar-logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(25%, 50%);
+  }
+
+  .foot-icon {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(-100%, 60%);
+    font-size: 1.8rem;
+    cursor: pointer;
+  }
+
+  .foot-links-mobile {
+    display: block;
+    text-align: center;
+    padding: 1.5rem;
+    margin: 2rem auto;
+    border-radius: 4px;
+    width: 80%;
+    background: #4ad9e4;
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.5rem;
+  }
+
+  .foot-links-mobile:hover {
+    background: #fff;
+    color: #6568f4;
+    transition: 250ms;
+  }
+
+  Button {
+    display: none;
+  }
+}

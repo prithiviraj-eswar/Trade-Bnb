@@ -1,0 +1,315 @@
+h2 {
+  font-size: 1.9rem !important;
+}
+
+p {
+  overflow-wrap: break-word;
+}
+
+.fa-power-off {
+  background-color: #fff;
+  padding: 5px;
+}
+
+.login-screen {
+  width: 100%;
+  padding-bottom: 100px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.login_intro {
+  width: 100%;
+  height: 100vh;
+  background-image: url('../../assets/loginPage.png');
+  background-size: 90% 90%;
+}
+
+.login-screen__form {
+  width: 380px;
+  padding: 1.5rem;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  background: #ffffff99;
+  border-radius: 10px;
+}
+
+.login-screen__title {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.login-screen__forgotpassword {
+  font-size: 0.7rem;
+}
+
+.login-screen__subtext {
+  font-size: 0.7rem;
+  display: block;
+  margin: 0.5rem 0;
+}
+
+.login-form {
+  display: block;
+  z-index: 9;
+  float: right;
+}
+
+.show {
+  width: 100%;
+  height: 0px;
+  display: block;
+  float: right;
+  transition: 800ms;
+  opacity: 1;
+  z-index: 1;
+}
+
+.show.active {
+  height: 0px;
+  float: right;
+  transform: translateX(660px) scale(0) rotateX(0deg);
+  opacity: 0;
+}
+
+.login_intro > h2 {
+  color: #fff;
+  text-align: center;
+  transform: translate(0);
+  opacity: 1;
+  transition: all ease-out 1s;
+  padding: 15px 15px;
+}
+
+.login_intro > h2:current {
+  transform: translate(0);
+  transition: all ease-out 1s;
+}
+
+.login_intro > p {
+  color: #fff;
+  text-align: center;
+  transform: translate(0);
+  opacity: 1;
+  transition: all ease-out 1s 0.3s;
+}
+
+.login_intro > p:current {
+  transform: translate(0);
+  transition: all ease-out 1s;
+}
+
+.priviliges,
+.trade_bnb_acc {
+  padding: 15px 15px;
+  width: 100%;
+  height: 100vh;
+}
+
+.priv_header,
+.acc_header,
+.trade_bnb_acc_header {
+  text-align: center;
+  color: #000;
+  padding: 15px 15px;
+  transform: translate(0);
+  opacity: 1;
+  transition: all ease-out 1s 0.3s;
+}
+
+.priv_content,
+.acc_content {
+  text-align: center;
+  color: #000;
+  padding: 15px 15px;
+  transform: translate(0);
+  opacity: 1;
+  transition: all ease-out 1s 0.5s;
+}
+
+.priv_content2 {
+  width: 100%;
+  justify-content: center;
+  height: 400px;
+  display: flex;
+  flex-direction: row;
+  padding: 100px;
+}
+
+.priv_content2 > div {
+  width: 285px;
+  height: 300px;
+  box-sizing: border-box;
+  padding: 30px 20px 39px;
+  margin-right: 20px;
+  transform: scaleX(1);
+  background: #ffffff;
+  box-shadow: 0 5px 25px #0052af80;
+  border-radius: 4px;
+}
+
+.stocks {
+  transform: translate(0);
+  opacity: 1;
+  transition: all ease-out 0.6s;
+  position: relative;
+}
+
+.options {
+  transform: translate(0);
+  opacity: 1;
+  transition: all ease-out 0.9s;
+  position: relative;
+}
+
+.ETF {
+  transform: translate(0);
+  opacity: 1;
+  transition: all ease-out 1.2s;
+  position: relative;
+}
+
+.crypto {
+  transform: translate(0);
+  opacity: 1;
+  transition: all ease-out 1.5s;
+  position: relative;
+}
+
+.stocks:hover,
+.options:hover,
+.ETF:hover,
+.crypto:hover {
+  transform: translateY(-20px);
+  transition: 0.4s ease-out;
+}
+
+.fa-arrow-trend-up,
+.fa-filter-circle-dollar,
+.fa-chart-column,
+.fa-coins,
+.fa-bitcoin,
+.fa-user {
+  font-size: 2.5rem;
+  color: rgb(4, 2, 107);
+  margin-right: 10px;
+}
+
+.account {
+  padding: 15px 15px;
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(1, 179, 254, 0.15);
+  background-size: 90% 90%;
+}
+
+.acc_content2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 100px;
+}
+
+.acc_content_right,
+.trade_bnb_content_right {
+  flex: 1 1;
+  margin-left: 100px;
+}
+
+.accountWrap1,
+.accountWrap2,
+.trade_bnb_wrap,
+.trade_bnb_content {
+  display: flex;
+  padding: 15px 15px;
+}
+
+.trade_bnb_wrap {
+  display: flex;
+  padding: 15px 15px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.learnmore {
+  font-size: 16px;
+  color: rgb(4, 2, 107);
+  position: relative;
+  cursor: pointer;
+  /* line-height: 24px; */
+}
+
+.learnmore > .fa-caret-right {
+  font-size: 0.9rem;
+  color: rgb(4, 2, 107);
+}
+
+.fa-chevron-right {
+  font-size: 0.9rem;
+  color: rgb(4, 2, 107);
+  margin-right: 10px;
+}
+
+.fa-arrow-right {
+  font-size: 0.9rem;
+  color: rgb(4, 2, 107);
+  margin-right: 0px;
+}
+
+/* .fa-arrow-right:hover {
+  font-size: 0.9rem;
+  color: rgb(4, 2, 107);
+  margin-right: 0px;
+  transform: translateX(10px);
+  transition: 1.6s ease-out;
+} */
+
+.iba_info {
+  margin-left: 10px;
+}
+
+.trade_bnb_acc_wrapper1 > p,
+.trade_bnb_acc_wrapper2 > p {
+  color: #000;
+  text-align: left;
+  transform: translate(0);
+  opacity: 1;
+  transition: all ease-out 1s 0.3s;
+  padding: 15px 15px;
+}
+
+.openAccount {
+  width: 200px;
+  height: 50px;
+  margin: 15px;
+  background-color: rgb(183, 184, 250);
+  border-radius: 4px;
+  text-decoration: underline blue;
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem;
+}
+
+.openAccount:hover {
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.6);
+}
+
+@media screen and (max-width: 960px) {
+  h2 {
+    font-size: 1.1rem !important;
+  }
+
+  div {
+    font-size: 0.75rem;
+    text-overflow: ellipsis;
+  }
+
+  p {
+    font-size: 0.75rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    overflow-wrap: break-word;
+  }
+}

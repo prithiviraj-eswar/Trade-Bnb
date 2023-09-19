@@ -1,0 +1,51 @@
+.modal_cancel {
+  cursor: pointer;
+}
+
+.modal_show {
+  width: 100%;
+  height: 0px;
+  display: block;
+  float: right;
+  transition: 800ms;
+  opacity: 1;
+  z-index: 9;
+}
+
+.modal_show.modal_active {
+  height: 0px;
+  float: right;
+  transform: translateX(660px) scale(0) rotateX(0deg);
+  opacity: 0;
+}
+
+.modal-box {
+  z-index: 9;
+}
+
+#BUY,
+#Buy,
+#buy {
+  background-color: #1ab301;
+}
+
+#SELL,
+#Sell,
+#sell {
+  background-color: #b32801;
+}
+
+.MuiSwitch-colorSecondary.Mui-checked,
+.MuiSwitch-track {
+  color: #1c01b3 !important;
+  /* background-color: #1c01b3 !important; */
+}
+
+.MuiSwitch-switchBase,
+.MuiSwitch-track {
+  color: #1c01b3 !important;
+}
+
+.MuiSwitch-colorSecondary.Mui-checked + .MuiSwitch-track {
+  background-color: #1c01b3 !important;
+}
